@@ -1,14 +1,12 @@
 # Batch-B4
 [https://github.com/Sairaj72/Batch-B4/blob/main/Assignment1.ipynb]
 [https://github.com/Sairaj72/Batch-B4/blob/main/Assignment2.ipynb]
-
-
-
-
-
-
-
-
-
-
-https://github.com/Sairaj72/Batch-B4/blob/main/Aiml_project.ipynb
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment3.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment4.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment5.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment6.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment7.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment8.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment9.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Assignment10.ipynb]
+[https://github.com/Sairaj72/Batch-B4/blob/main/Aiml_project.ipynb]
